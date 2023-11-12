@@ -2,8 +2,8 @@
 
 Hey! This repository is exclusively created to catalog snippets of code that i consider that could be useful in future projects.
 
-The main source from which i take this snippets are my solutions for different problems in the CS50X and CS50P courses from Harvard, but in the future i'll add more from projects made by myself.
+All this snippets come from personal projects, random things that i learn how to do or are part of some course i'm taking.
 
-Every snippet will have some comments to explain the context in which it was created and some explanation on how it works.
+Every snippet will have some comments to explain what it does and some have recommendations on what context could be useful.
 
 Thank you for reading this and i hope that you find something useful <3
